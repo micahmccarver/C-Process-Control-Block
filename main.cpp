@@ -1,13 +1,3 @@
-/*********************************************************************************************
-
-File: main.cpp, client file with driver
-Name: Micah McCarver and Brandon Holman
-Date Written: 9/11/17 - 9/15/17
-CS433 - Assignment 1 - Priority Queue of Processes 
-Description: Program that is designed to create a PCB and ReadyQueue. Two tests possible.  
-No special instructions or assumptions
-
-*********************************************************************************************/
 
 //-------------------------------------------------------------------------------------------
 #ifndef main_C
